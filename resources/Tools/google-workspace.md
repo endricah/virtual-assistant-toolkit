@@ -20,7 +20,7 @@ I keep a polished email presence by leveraging organized labels and filters—no
 #### Google Business Profile
 I actively maintain a verified business profile, ensuring my services stand out and are discoverable.
 
-### *Life Cycle of an Outreach Project
+### *Life Cycle of an Outreach Project*
 
 #### Drafting & Preparation
 
@@ -38,7 +38,7 @@ I manage meetings, follow-ups, and important milestones through Google Calendar,
 
 I regularly review my business profile, folder structures, and workflows to ensure information stays accurate, updated, and efficient.
 
-### *Efficiency Practices
+### *Efficiency Practices*
 
 #### Color-Coded Organization
 
