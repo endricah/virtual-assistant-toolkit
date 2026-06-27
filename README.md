@@ -30,6 +30,20 @@ The process is documented in more detail in [SOP Templates](https://github.com/e
 - [Google Workspace](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/google-workspace.md)
 - [Canva](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/canva.md)
 
+## My Systems
+
+#### 📂 **Documentation**  
+SOP templates, workflows, and process guides.
+
+#### ⚙️ **Project Management**  
+ClickUp workflows and task organization.
+
+#### 🎨 **Creative Assets**  
+Canva systems and reusable templates.
+
+#### 🤖 **AI Workflow**  
+AI-assisted research, drafting, and productivity processes.
+
 ## Goal
 
 To build my digital skills and create systems that improve organisation and workflow management.
