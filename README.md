@@ -1,6 +1,6 @@
 # Virtual Assistant Toolkit
 
-Welcome to my first Github project.
+Welcome to my Virtual Assistant Toolkit, it's a growing collection of workflows, templates, and systems i use to improve organisation, productivity, and client support.
 
 ## About This Project
 
@@ -9,10 +9,15 @@ This repository documents my journey learning digital tools, virtual assistant w
 ## Skills I'm Building
 
 #### Virtual Assistance
+
 #### Project Management
+
 #### Calendar Management
+
 #### Email Management
+
 #### Documentation 
+
 #### SOP Creation
 The process is documented in more detail in [SOP Templates](https://github.com/endricah/virtual-assistant-toolkit/tree/main/sop-templates)
 
