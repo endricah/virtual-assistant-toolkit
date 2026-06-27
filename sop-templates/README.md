@@ -11,7 +11,7 @@ A structured process for welcoming new clients, collecting important information
 [View Client Onboarding SOP]
 
 ### Email Management SOP
-[View Email Management SOP]
+[View Email Management SOP](https://github.com/endricah/virtual-assistant-toolkit/blob/main/sop-templates/email-management-%26-outreach.md)
 
 ### Calendar Management SOP
 [View Calendar Management SOP]
