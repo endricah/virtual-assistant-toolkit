@@ -20,7 +20,7 @@ The process is documented in more detail in [SOP Templates](https://github.com/e
 - [GitHub](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/github.md)
 - [ClickUp](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/clickup.md)
 - AI tools
-- Google workspace
+- [Google workspace](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/google-workspace.md)
 - Canva
 - Hubspot
 
