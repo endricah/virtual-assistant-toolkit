@@ -8,11 +8,13 @@ This repository documents my journey learning digital tools, virtual assistant w
 
 ## Skills I'm Building
 
-virtual assistance
-project management
-calendar management
-email management
-documentation and SOP creation
+#### Virtual Assistance
+#### Project Management
+#### Calendar Management
+#### Email Management
+#### Documentation 
+#### SOP Creation
+The process is documented in more detail
 
 ## Tools I'm Exploring
 
