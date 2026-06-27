@@ -1,4 +1,4 @@
-![Virtul Assistant Toolkit Banner](
+![Virtul Assistant Toolkit Banner](📂 SOPs  ⚙️ Tools  🤖 AI  🎨 Design.png)
 
 # Virtual Assistant Toolkit
 
