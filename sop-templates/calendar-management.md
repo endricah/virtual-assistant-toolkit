@@ -1,4 +1,4 @@
-# Calendar Management SOP
+# 📆Calendar Management SOP
 
 ## Objective
 
@@ -6,46 +6,93 @@ To maintain an organized and efficient scheduling system that ensures meetings, 
 
 ## Scope
 
-This SOP covers calendar organization, meeting scheduling, appointment coordination, reminders, and maintaining visibility of upcoming priorities.
+This SOP covers calendar organization, scheduling workflows, meeting coordination, time management, and maintaining visibility of priorities.
 
-## Calendar Management Process
+# Core Scheduling Principles
 
-### 1. Calendar Review & Organization
+## Time Blocking
 
-- Review upcoming events, meetings, deadlines, and scheduled tasks regularly.
-- Ensure calendar entries contain accurate dates, times, locations, and relevant details.
-- Identify scheduling conflicts and resolve them promptly.
+I structure the calendar around focused work periods and communication windows.
 
-### 2. Scheduling & Coordination
+### Deep Work Blocks
 
-- Schedule meetings based on availability and priorities.
-- Confirm time zones when working with clients or teams in different locations.
-- Include meeting agendas, links, and important preparation notes where necessary.
+Morning hours are reserved for high-focus tasks that require concentration, such as documentation, planning, project work, and deliverables.
 
-### 3. Reminder Management
+### Communication Blocks
 
-- Set appropriate reminders for meetings, deadlines, and important follow-ups.
-- Ensure enough preparation time is available before key events.
+Afternoons are reserved for emails, Zoom meetings, client check-ins, and collaboration activities.
 
-## Meeting Workflow
+### Buffer Time
 
-### Preparation
+I include buffer periods between meetings to allow time for preparation, follow-ups, unexpected changes, and smooth transitions between tasks.
 
-- Review meeting purpose and required attendees.
-- Prepare necessary documents, links, or notes.
+# Scheduling Workflow
 
-### During Coordination
+## 1. Request Receipt
 
-- Ensure participants receive accurate scheduling information.
-- Update calendar details if changes occur.
+Receive and review the meeting request, confirming the purpose, attendees, preferred timing, and required preparation.
 
-### Follow-Up
+## 2. Availability Check
 
-- Record important action items.
-- Update related tasks in project management systems such as ClickUp.
+Review existing calendar commitments and identify suitable time slots while considering priorities and availability.
 
-## Calendar Organization Standards
+## 3. Calendar Entry
 
+Create the calendar event with:
+
+- Clear title
+- Date and time
+- Attendees
+- Meeting link
+- Agenda or notes
+- Relevant documents
+
+## 4. Confirmation
+
+Confirm scheduling details with participants and ensure the appointment is properly reflected in the calendar system.
+
+# Calendar Organization Standards
+
+- Use consistent naming conventions for events.
+- Apply color coding to improve visibility.
+- Keep client meetings, personal commitments, and project deadlines clearly organized.
+
+# Best Practices
+
+## Single Source of Truth
+
+Google Calendar and Calendly serve as the primary scheduling systems. If an appointment is not recorded on the calendar, it should be treated as not confirmed.
+
+## Proactive Conflict Resolution
+
+When scheduling conflicts occur, prioritize commitments based on impact, giving priority to active clients, important deliverables, and time-sensitive opportunities.
+
+## Weekly Calendar Audits
+
+Every Friday, review the upcoming week to confirm:
+
+- All meetings have clear agendas
+- No scheduling conflicts exist
+- Important preparation tasks are completed
+
+# Escalation & Schedule Changes
+
+When changes occur:
+
+1. Notify relevant stakeholders immediately, especially for high-priority meetings or active client projects.
+
+2. Update related tasks in ClickUp to reflect the new schedule and maintain workflow visibility.
+
+3. Update Calendly availability when necessary.
+
+4. Provide alternative meeting options promptly to maintain momentum.
+
+# Tools Used
+
+- Google Calendar / Google Workspace
+- Calendly for scheduling coordination
+- ClickUp for task tracking and project visibility
+- Email platforms for communication
 - Use consistent naming conventions for events.
 - Apply categories or color coding to improve visibility.
 - Keep personal, client, and project-related schedules organized.
