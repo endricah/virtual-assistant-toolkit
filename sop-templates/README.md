@@ -17,8 +17,14 @@ A structured process for organizing inbox workflows, managing client communicati
 [View Email Management SOP](https://github.com/endricah/virtual-assistant-toolkit/blob/main/sop-templates/email-management-%26-outreach.md)
 
 ### Calendar Management SOP
+
+A structured process for organizing schedules, coordinating meetings, managing availability, and maintaining an efficient calendar system to ensure priorities, deadlines, and commitments are handled effectively.
+
 [View Calendar Management SOP]
 
 ### Travel Management SOP
+
+A structured process for planning, researching, and coordinating travel arrangements, including flights, accommodations, itineraries, and travel documentation to ensure smooth and organized travel experiences.
+
 [View Travel Management SOP]
 
