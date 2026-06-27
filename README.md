@@ -14,7 +14,7 @@ This repository documents my journey learning digital tools, virtual assistant w
 #### Email Management
 #### Documentation 
 #### SOP Creation
-The process is documented in more detail
+The process is documented in more detail in [SOP Templates](https://github.com/endricah/virtual-assistant-toolkit/tree/main/sop-templates)
 
 ## Tools I'm Exploring
 
