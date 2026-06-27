@@ -26,7 +26,7 @@ The process is documented in more detail in [SOP Templates](https://github.com/e
 - [ClickUp](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/clickup.md)
 - [AI tools](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/ai-tools.md)
 - [Google Workspace](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/google-workspace.md)
-- Canva
+- [Canva](
 - Hubspot
 
 ## Goal
