@@ -17,7 +17,8 @@ This repository documents my journey learning digital tools, virtual assistant w
 The process is documented in more detail in [SOP Templates](https://github.com/endricah/virtual-assistant-toolkit/tree/main/sop-templates)
 
 ## Tools I'm Exploring
-- [GitHub](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/github.md#comprehensive-documentation)
+- [GitHub](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/github.md)
+- [ClickUp](https://github.com/endricah/virtual-assistant-toolkit/blob/main/resources/Tools/clickup.md)
 - AI tools
 - Google workspace
 - Canva
