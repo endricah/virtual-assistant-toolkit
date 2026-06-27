@@ -20,7 +20,7 @@ A structured process for organizing inbox workflows, managing client communicati
 
 A structured process for organizing schedules, coordinating meetings, managing availability, and maintaining an efficient calendar system to ensure priorities, deadlines, and commitments are handled effectively.
 
-[View Calendar Management SOP]
+[View Calendar Management SOP](https://github.com/endricah/virtual-assistant-toolkit/blob/main/sop-templates/calendar-management.md)
 
 ### Travel Management SOP
 
