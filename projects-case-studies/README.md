@@ -14,7 +14,7 @@ Projects focused on working with data, cleaning information, analyzing performan
 
 Current projects:
 
-- [Social Media Performance Data Literacy Project]()
+- [Social Media Performance Data Literacy Project](https://github.com/endricah/virtual-assistant-toolkit/blob/main/projects-case-studies/data-literacy/social-media-performance/README.md)
 
 Future projects:
 - Creator Performance Analysis
