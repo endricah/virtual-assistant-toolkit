@@ -92,7 +92,7 @@ Created a dashboard displaying:
 
 ### Data Problems Log
 
-![Data Problems Log](./images/data-problems-log.png)
+![Data Problems Log](https://github.com/endricah/virtual-assistant-toolkit/blob/main/projects%26case-studies/data-literacy/social-media-performance/images/data%20problems%20log.png)
 
 ### Insights & KPIs
 
