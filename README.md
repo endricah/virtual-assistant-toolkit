@@ -14,7 +14,9 @@ This repository documents my journey learning digital tools, virtual assistant w
 
 #### Data Analysis & Reporting
 
-- Social Media Performance Data Literacy Project
+##### [Data Literacy](https://github.com/endricah/virtual-assistant-toolkit/blob/main/projects-case-studies/data-literacy/README.md)
+
+- [Social Media Performance Data Literacy Project](https://github.com/endricah/virtual-assistant-toolkit/blob/main/projects-case-studies/data-literacy/social-media-performance/README.md)
 
 #### Project Management
 
