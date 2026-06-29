@@ -12,6 +12,8 @@ This repository documents my journey learning digital tools, virtual assistant w
 
 #### Virtual Assistance
 
+#### Data Analysis & Reporting
+
 #### Project Management
 
 #### Calendar Management
