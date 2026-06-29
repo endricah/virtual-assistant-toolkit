@@ -96,7 +96,7 @@ Created a dashboard displaying:
 
 ### Insights & KPIs
 
-![Insights and KPIs](./images/insights&KPIs.png)
+![Insights and KPIs](projects&case-studies/data-literacy/social-media-performance/images/insights &KPIs.png)
 
 ## Outcome
 
