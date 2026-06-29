@@ -8,7 +8,7 @@ Each project focuses on applying digital tools, organization systems, data analy
 
 ## Project Categories
 
-### Data Literacy
+### [Data Literacy](https://github.com/endricah/virtual-assistant-toolkit/tree/main/projects-case-studies/data-literacy)
 
 Projects focused on working with data, cleaning information, analyzing performance, creating dashboards, and turning data into actionable insights.
 
