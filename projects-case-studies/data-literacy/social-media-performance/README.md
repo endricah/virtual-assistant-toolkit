@@ -92,11 +92,11 @@ Created a dashboard displaying:
 
 ### Data Problems Log
 
-![Data Problems Log](https://github.com/endricah/virtual-assistant-toolkit/blob/main/projects%26case-studies/data-literacy/social-media-performance/images/data%20problems%20log.png)
+![Data Problems Log](./images/data-problems-log.png)
 
 ### Insights & KPIs
 
-![Insights and KPIs](https://github.com/endricah/virtual-assistant-toolkit/blob/main/projects%26case-studies/data-literacy/social-media-performance/images/insights%20%26KPIs.png)
+![Insights and KPIs](./images/insights-KPIs.png)
 
 ## Outcome
 
