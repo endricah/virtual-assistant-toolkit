@@ -14,6 +14,8 @@ This repository documents my journey learning digital tools, virtual assistant w
 
 #### Data Analysis & Reporting
 
+- Social Media Performance Data Literacy Project
+
 #### Project Management
 
 #### Calendar Management
