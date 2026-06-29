@@ -4,4 +4,4 @@ This section contains projects focused on data organization, cleaning, analysis,
 
 ## Projects
 
-- [Social Media Performance Data Literacy Project](/data-literacy/social-media-performance/README.md)
+- [Social Media Performance Data Literacy Project](https://github.com/endricah/virtual-assistant-toolkit/blob/main/projects-case-studies/data-literacy/social-media-performance/README.md)
