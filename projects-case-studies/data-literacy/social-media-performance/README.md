@@ -84,6 +84,12 @@ Created a dashboard displaying:
 - Views by content type
 - Views by topic
 
+## Project File
+
+View the complete Google Sheets dashboard and analysis here:
+
+[Social Media Performance Dashboard](https://docs.google.com/spreadsheets/d/1A4GVcEzoddBCyFbshb2y9E5_96q4mx9eomv9BX6NFIc/edit?usp=sharing)
+
 ## Project Screenshots
 
 ### Dashboard
