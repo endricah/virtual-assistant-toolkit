@@ -96,7 +96,7 @@ Created a dashboard displaying:
 
 ### Insights & KPIs
 
-![Insights and KPIs](projects&case-studies/data-literacy/social-media-performance/images/insights &KPIs.png)
+![Insights and KPIs]((https://github.com/endricah/virtual-assistant-toolkit/blob/main/projects%26case-studies/data-literacy/social-media-performance/images/insights%20%26KPIs.png))
 
 ## Outcome
 
