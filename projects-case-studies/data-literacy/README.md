@@ -4,4 +4,4 @@ This section contains projects focused on data organization, cleaning, analysis,
 
 ## Projects
 
-- [Social Media Performance Data Literacy Project](projects-case-studies/data-literacy/social-media-performance)
+- [Social Media Performance Data Literacy Project](projects-case-studies/data-literacy/social-media-performance/README.md)
